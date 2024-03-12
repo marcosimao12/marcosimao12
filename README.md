@@ -1,5 +1,5 @@
-Hi there, I'm Marco
-GIF
+## Hi there, I'm Marco
+
 
 ## I'm a Student and Programmer  
 
