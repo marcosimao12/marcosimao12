@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosimao12&show_icons=true&locale=en&layout=compact" alt="marcosimao12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosimao12&show_icons=true&locale=en" alt="marcosimao12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosimao12&theme=dracula&include_all_commits&show_icons=true&locale=en" alt="marcosimao12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosimao12&" alt="marcosimao12" /></p>
